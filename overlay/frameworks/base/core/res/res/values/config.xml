@@ -164,7 +164,7 @@
     <integer name="config_screenBrightnessDark">2</integer>
 
     <!-- Screen brightness when dozing. -->
-    <integer name="config_screenBrightnessDoze">17</integer>
+    <integer name="config_screenBrightnessDoze">10</integer>
 
     <!-- If this is true, the screen will come on when you unplug usb/power/whatever. -->
     <bool name="config_unplugTurnsOnScreen">true</bool>
