@@ -23,10 +23,7 @@
 
 # Live Wallpapers
 PRODUCT_PACKAGES += \
-        LiveWallpapers \
         LiveWallpapersPicker \
-        MagicSmokeWallpapers \
-        VisualizationWallpapers \
         librs_jni
 
 PRODUCT_PROPERTY_OVERRIDES := \
